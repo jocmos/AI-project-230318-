@@ -1,4 +1,4 @@
-# AI-project-230318
+# ITM812(A) AI project first 230318
 
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
