@@ -25,6 +25,7 @@ This is how you make a list, if you need one:
 * problem 4: Unnecessary electricity or heat are being wasted.
 
 ## How is it used?
+![20230318_203214](https://user-images.githubusercontent.com/27719400/226104381-739a76a7-57f6-4ca9-9cd4-ef78e8b1340d.png)
 
 
 - Automatic settings for building lighting, air conditioning, background music, etc.
